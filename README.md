@@ -28,5 +28,3 @@ Facilitar la integración de radios online en apps Android mediante un visor web
 Este proyecto fue desarrollado por **Raúl Villarreal**. Si deseas colaborar o tienes preguntas técnicas, puedes usar los issues del repositorio o contribuir directamente.
 
 ---
-
-¡Tu radio está a punto de sonar en todo el mundo! 🌎🎶
