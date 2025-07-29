@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Política de Privacidad – AlfredoFM</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 2em; background-color: #f9f9f9; color: #333; line-height: 1.6; }
+    h1, h2 { color: #004080; }
+    ul { padding-left: 1.5em; }
+    .contacto { margin-top: 2em; font-weight: bold; }
+    hr { margin: 3em 0; }
+  </style>
+</head>
+<body>
+  <h1>📜 Política de Privacidad – AlfredoFM</h1>
+  <p><strong>Última actualización:</strong> julio de 2025</p>
+
+  <h2>🛡️ Recopilación de datos</h2>
+  <p>La aplicación <strong>no recopila ni solicita ningún tipo de información personal</strong>. No accede a:</p>
+  <ul>
+    <li>Imágenes o archivos del dispositivo</li>
+    <li>Ubicación geográfica</li>
+    <li>Estado de conexión Wi-Fi o móvil</li>
+    <li>Micrófono, cámara u otros sensores</li>
+  </ul>
+
+  <h2>🎮 Funcionalidad de la App</h2>
+  <p>La app solo incluye dos funciones básicas:</p>
+  <ul>
+    <li><strong>Reproducir</strong> la señal en vivo de AlfredoFM</li>
+    <li><strong>Salir</strong> o cerrar la aplicación</li>
+  </ul>
+
+  <h2>📲 Menú de navegación</h2>
+  <p>El menú incluye tres secciones:</p>
+  <ul>
+    <li><strong>Inicio:</strong> acceso directo al reproductor</li>
+    <li><strong>Nosotros:</strong> información institucional de la emisora AlfredoFM</li>
+    <li><strong>Política de privacidad:</strong> este documento</li>
+  </ul>
+
+  <h2>🔒 Seguridad</h2>
+  <p>AlfredoFM utiliza únicamente tecnologías internas de visualización de contenido. El audio se reproduce a través de un visor web sin intermediarios ni servicios externos que puedan acceder a tus datos.</p>
+
+  <p class="contacto">📧 Contacto: +507 6700 3980</p>
+
+  <hr>
+
+  <h1>📜 Privacy Policy – AlfredoFM</h1>
+  <p><strong>Last updated:</strong> July 2025</p>
+
+  <h2>🛡️ Data Collection</h2>
+  <p>The application <strong>does not collect or request any personal data</strong>. It does not access:</p>
+  <ul>
+    <li>Device images or files</li>
+    <li>Location data</li>
+    <li>Wi-Fi or mobile connection status</li>
+    <li>Microphone, camera, or other sensors</li>
+  </ul>
+
+  <h2>🎮 App Functionality</h2>
+  <p>The app includes only two basic functions:</p>
+  <ul>
+    <li><strong>Play</strong> the AlfredoFM live stream</li>
+    <li><strong>Exit</strong> the application</li>
+  </ul>
+
+  <h2>📲 Navigation Menu</h2>
+  <p>The menu includes three sections:</p>
+  <ul>
+    <li><strong>Home:</strong> direct access to the player</li>
+    <li><strong>About Us:</strong> institutional information about AlfredoFM</li>
+    <li><strong>Privacy Policy:</strong> this document</li>
+  </ul>
+
+  <h2>🔒 Security</h2>
+  <p>AlfredoFM uses internal content display technologies only. The audio is streamed through a web viewer without intermediaries or external services that might access your data.</p>
+
+  <p class="contacto">📧 Contact: +507 6700 3980</p>
+</body>
+</html>
